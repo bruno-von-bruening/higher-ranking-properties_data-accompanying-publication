@@ -1,8 +1,11 @@
 # Data for *Benchmarking higher-ranking multipoles and polarizability tensors for small molecular systems*
+[![DOI](https://zenodo.org/badge/1375921490.svg)](https://doi.org/10.5281/zenodo.23916758)
 
 ## Accompanying Publication
 
 This repository hosts the data for the publication *Benchmarking higher-ranking multipoles and polarizability tensors for small molecular systems*.
+
+
 
 **TODO: Add DOI, full citation (authors, journal, year) and ideally a BibTeX entry.**
 
