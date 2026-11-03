@@ -2,7 +2,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/NP\/c1-2",
+    "InChI":"1S\/NP\/c1-2",
     "molecular_formula":"PN",
     "D":[
       0.0,
@@ -34,7 +34,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/FHO\/c1-2\/h2H",
+    "InChI":"1S\/FHO\/c1-2\/h2H",
     "molecular_formula":"HOF",
     "D":[
       0.0,
@@ -66,7 +66,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H3NO\/c1-2\/h2H,1H2",
+    "InChI":"1S\/H3NO\/c1-2\/h2H,1H2",
     "molecular_formula":"NH2OH",
     "D":[
       0.0119,
@@ -98,7 +98,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH5N\/c1-2\/h2H2,1H3",
+    "InChI":"1S\/CH5N\/c1-2\/h2H2,1H3",
     "molecular_formula":"CH3NH2",
     "D":[
       0.5296,
@@ -130,7 +130,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH2O2\/c2-1-3\/h1H,(H,2,3)",
+    "InChI":"1S\/CH2O2\/c2-1-3\/h1H,(H,2,3)",
     "molecular_formula":"HCOOH",
     "D":[
       0.0,
@@ -162,7 +162,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H4Si\/h1H4",
+    "InChI":"1S\/H4Si\/h1H4",
     "molecular_formula":"SiH4",
     "D":[
       0.0,
@@ -194,7 +194,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BFH2\/c1-2\/h1H2\/i1D2",
+    "InChI":"1S\/BFH2\/c1-2\/h1H2\/i1D2",
     "molecular_formula":"BH2F",
     "D":[
       0.0,
@@ -226,7 +226,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H2S2\/c1-2\/h1-2H",
+    "InChI":"1S\/H2S2\/c1-2\/h1-2H",
     "molecular_formula":"S2H2",
     "D":[
       0.0,
@@ -258,7 +258,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/O3\/c1-3-2",
+    "InChI":"1S\/O3\/c1-3-2",
     "molecular_formula":"O3",
     "D":[
       0.0,
@@ -290,7 +290,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CFN\/c2-1-3",
+    "InChI":"1S\/CFN\/c2-1-3",
     "molecular_formula":"FCN",
     "D":[
       0.0,
@@ -322,7 +322,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CO2\/c2-1-3",
+    "InChI":"1S\/CO2\/c2-1-3",
     "molecular_formula":"CO2",
     "D":[
       0.0,
@@ -354,7 +354,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH3BO\/c1-2-3\/h3H,1H2",
+    "InChI":"1S\/CH3BO\/c1-2-3\/h3H,1H2",
     "molecular_formula":"CH2BOH",
     "D":[
       -0.5483,
@@ -386,7 +386,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/C2HCl\/c1-2-3\/h1H",
+    "InChI":"1S\/C2HCl\/c1-2-3\/h1H",
     "molecular_formula":"HCCCl",
     "D":[
       0.0,
@@ -418,7 +418,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH3B\/c1-2\/h2H,1H2",
+    "InChI":"1S\/CH3B\/c1-2\/h2H,1H2",
     "molecular_formula":"CH2BH",
     "D":[
       0.0,
@@ -450,7 +450,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CHP\/c1-2\/h1H",
+    "InChI":"1S\/CHP\/c1-2\/h1H",
     "molecular_formula":"HCP",
     "D":[
       0.0,
@@ -482,7 +482,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/SSi\/c1-2",
+    "InChI":"1S\/SSi\/c1-2",
     "molecular_formula":"SiS",
     "D":[
       0.0,
@@ -514,7 +514,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CS\/c1-2",
+    "InChI":"1S\/CS\/c1-2",
     "molecular_formula":"CS",
     "D":[
       0.0,
@@ -546,7 +546,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/P2\/c1-2",
+    "InChI":"1S\/P2\/c1-2",
     "molecular_formula":"P2",
     "D":[
       0.0,
@@ -578,7 +578,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/Cl2S\/c1-3-2",
+    "InChI":"1S\/Cl2S\/c1-3-2",
     "molecular_formula":"SCl2",
     "D":[
       0.0,
@@ -610,7 +610,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/Ne",
+    "InChI":"1S\/Ne",
     "molecular_formula":"Ne",
     "D":[
       0.0,
@@ -642,7 +642,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/HNS\/c1-2\/h1H",
+    "InChI":"1S\/HNS\/c1-2\/h1H",
     "molecular_formula":"HNS",
     "D":[
       0.0,
@@ -674,7 +674,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/N2O\/c1-2-3",
+    "InChI":"1S\/N2O\/c1-2-3",
     "molecular_formula":"N2O",
     "D":[
       0.0,
@@ -706,7 +706,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H3NO\/c1-2\/h1H3",
+    "InChI":"1S\/H3NO\/c1-2\/h1H3",
     "molecular_formula":"NH3O",
     "D":[
       0.0,
@@ -738,7 +738,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/C2H2\/c1-2\/h1-2H",
+    "InChI":"1S\/C2H2\/c1-2\/h1-2H",
     "molecular_formula":"C2H2",
     "D":[
       0.0,
@@ -770,7 +770,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/C2HF\/c1-2-3\/h1H",
+    "InChI":"1S\/C2HF\/c1-2-3\/h1H",
     "molecular_formula":"HCCF",
     "D":[
       0.0,
@@ -802,7 +802,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/N2\/c1-2",
+    "InChI":"1S\/N2\/c1-2",
     "molecular_formula":"N2",
     "D":[
       0.0,
@@ -834,7 +834,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/COS\/c2-1-3",
+    "InChI":"1S\/COS\/c2-1-3",
     "molecular_formula":"CSO",
     "D":[
       0.0,
@@ -866,7 +866,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/HN3\/c1-3-2\/h1H",
+    "InChI":"1S\/HN3\/c1-3-2\/h1H",
     "molecular_formula":"HN3",
     "D":[
       0.0,
@@ -898,7 +898,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/ClH3Si\/c1-2\/h2H3",
+    "InChI":"1S\/ClH3Si\/c1-2\/h2H3",
     "molecular_formula":"SiH3Cl",
     "D":[
       0.0,
@@ -930,7 +930,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/FH\/h1H",
+    "InChI":"1S\/FH\/h1H",
     "molecular_formula":"HF",
     "D":[
       0.0,
@@ -962,7 +962,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/Cl2\/c1-2",
+    "InChI":"1S\/Cl2\/c1-2",
     "molecular_formula":"Cl2",
     "D":[
       0.0,
@@ -994,7 +994,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CHN\/c1-2\/h1H",
+    "InChI":"1S\/CHN\/c1-2\/h1H",
     "molecular_formula":"HCN",
     "D":[
       0.0,
@@ -1026,7 +1026,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BCl2H\/c2-1-3\/h1H",
+    "InChI":"1S\/BCl2H\/c2-1-3\/h1H",
     "molecular_formula":"BHCl2",
     "D":[
       0.0,
@@ -1058,7 +1058,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/OSi\/c1-2",
+    "InChI":"1S\/OSi\/c1-2",
     "molecular_formula":"SiO",
     "D":[
       0.0,
@@ -1090,7 +1090,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BF2H\/c2-1-3\/h1H",
+    "InChI":"1S\/BF2H\/c2-1-3\/h1H",
     "molecular_formula":"BHF2",
     "D":[
       0.0,
@@ -1122,7 +1122,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH4S\/c1-2\/h2H,1H3",
+    "InChI":"1S\/CH4S\/c1-2\/h2H,1H3",
     "molecular_formula":"CH3SH",
     "D":[
       0.0009,
@@ -1154,7 +1154,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/FH2N\/c1-2\/h2H2",
+    "InChI":"1S\/FH2N\/c1-2\/h2H2",
     "molecular_formula":"NH2F",
     "D":[
       0.6273,
@@ -1186,7 +1186,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H2O2\/c1-2\/h1-2H",
+    "InChI":"1S\/H2O2\/c1-2\/h1-2H",
     "molecular_formula":"HOOH",
     "D":[
       0.6166,
@@ -1218,7 +1218,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H3OP\/c1-2\/h2H3",
+    "InChI":"1S\/H3OP\/c1-2\/h2H3",
     "molecular_formula":"PH3O",
     "D":[
       0.0,
@@ -1250,7 +1250,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH3F\/c1-2\/h1H3",
+    "InChI":"1S\/CH3F\/c1-2\/h1H3",
     "molecular_formula":"CH3F",
     "D":[
       0.0,
@@ -1282,7 +1282,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH3Cl\/c1-2\/h1H3",
+    "InChI":"1S\/CH3Cl\/c1-2\/h1H3",
     "molecular_formula":"CH3Cl",
     "D":[
       0.0,
@@ -1314,7 +1314,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CHFO\/c2-1-3\/h1H",
+    "InChI":"1S\/CHFO\/c2-1-3\/h1H",
     "molecular_formula":"HCOF",
     "D":[
       0.0,
@@ -1346,7 +1346,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H4N2\/c1-2\/h1-2H2",
+    "InChI":"1S\/H4N2\/c1-2\/h1-2H2",
     "molecular_formula":"N2H4",
     "D":[
       1.0661,
@@ -1378,7 +1378,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/HNO\/c1-2\/h1H",
+    "InChI":"1S\/HNO\/c1-2\/h1H",
     "molecular_formula":"HNO",
     "D":[
       0.0,
@@ -1410,7 +1410,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH4O\/c1-2\/h2H,1H3",
+    "InChI":"1S\/CH4O\/c1-2\/h2H,1H3",
     "molecular_formula":"CH3OH",
     "D":[
       0.0,
@@ -1442,7 +1442,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/ClF\/c1-2",
+    "InChI":"1S\/ClF\/c1-2",
     "molecular_formula":"ClF",
     "D":[
       0.0,
@@ -1474,7 +1474,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CHNO\/c2-1-3\/h2H",
+    "InChI":"1S\/CHNO\/c2-1-3\/h2H",
     "molecular_formula":"HNCO",
     "D":[
       0.0,
@@ -1506,7 +1506,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH5B\/c1-2\/h2H2,1H3",
+    "InChI":"1S\/CH5B\/c1-2\/h2H2,1H3",
     "molecular_formula":"CH3BH2",
     "D":[
       0.029,
@@ -1538,7 +1538,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/F2\/c1-2",
+    "InChI":"1S\/F2\/c1-2",
     "molecular_formula":"F2",
     "D":[
       0.0,
@@ -1570,7 +1570,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BN\/c1-2",
+    "InChI":"1S\/BN\/c1-2",
     "molecular_formula":"BN",
     "D":[
       0.0,
@@ -1602,7 +1602,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/ClH2N\/c1-2\/h2H2",
+    "InChI":"1S\/ClH2N\/c1-2\/h2H2",
     "molecular_formula":"NH2Cl",
     "D":[
       0.5763,
@@ -1634,7 +1634,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CS2\/c2-1-3",
+    "InChI":"1S\/CS2\/c2-1-3",
     "molecular_formula":"CS2",
     "D":[
       0.0,
@@ -1666,7 +1666,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H3N\/h1H3",
+    "InChI":"1S\/H3N\/h1H3",
     "molecular_formula":"NH3",
     "D":[
       0.5995,
@@ -1698,7 +1698,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CHN\/c1-2\/h2H",
+    "InChI":"1S\/CHN\/c1-2\/h2H",
     "molecular_formula":"HNC",
     "D":[
       0.0,
@@ -1730,7 +1730,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CClN\/c2-1-3",
+    "InChI":"1S\/CClN\/c2-1-3",
     "molecular_formula":"ClCN",
     "D":[
       0.0,
@@ -1762,7 +1762,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/B2H4\/c1-2\/h1-2H2",
+    "InChI":"1S\/B2H4\/c1-2\/h1-2H2",
     "molecular_formula":"HBH2BH",
     "D":[
       0.3301,
@@ -1794,7 +1794,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/F2S\/c1-3-2",
+    "InChI":"1S\/F2S\/c1-3-2",
     "molecular_formula":"SF2",
     "D":[
       0.0,
@@ -1826,7 +1826,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/ClHO\/c1-2\/h2H",
+    "InChI":"1S\/ClHO\/c1-2\/h2H",
     "molecular_formula":"HOCl",
     "D":[
       0.0,
@@ -1858,7 +1858,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H2N2\/c1-2\/h1-2H",
+    "InChI":"1S\/H2N2\/c1-2\/h1-2H",
     "molecular_formula":"N2H2",
     "D":[
       0.0,
@@ -1890,7 +1890,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/O2S\/c1-3-2",
+    "InChI":"1S\/O2S\/c1-3-2",
     "molecular_formula":"SO2",
     "D":[
       0.0,
@@ -1922,7 +1922,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/Cl2O\/c1-3-2",
+    "InChI":"1S\/Cl2O\/c1-3-2",
     "molecular_formula":"OCl2",
     "D":[
       0.0,
@@ -1954,7 +1954,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H2S\/h1H2",
+    "InChI":"1S\/H2S\/h1H2",
     "molecular_formula":"SH2",
     "D":[
       0.0,
@@ -1986,7 +1986,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H3OP\/c1-2\/h1H,2H2",
+    "InChI":"1S\/H3OP\/c1-2\/h1H,2H2",
     "molecular_formula":"PH2OH",
     "D":[
       0.0,
@@ -2018,7 +2018,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/He",
+    "InChI":"1S\/He",
     "molecular_formula":"He",
     "D":[
       0.0,
@@ -2050,7 +2050,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H2\/h1H",
+    "InChI":"1S\/H2\/h1H",
     "molecular_formula":"H2",
     "D":[
       0.0,
@@ -2082,7 +2082,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CO\/c1-2",
+    "InChI":"1S\/CO\/c1-2",
     "molecular_formula":"CO",
     "D":[
       0.0,
@@ -2114,7 +2114,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/F2O\/c1-3-2",
+    "InChI":"1S\/F2O\/c1-3-2",
     "molecular_formula":"OF2",
     "D":[
       0.0,
@@ -2146,7 +2146,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BClH2\/c1-2\/h1H2",
+    "InChI":"1S\/BClH2\/c1-2\/h1H2",
     "molecular_formula":"BH2Cl",
     "D":[
       0.0,
@@ -2178,7 +2178,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BH3\/h1H3",
+    "InChI":"1S\/BH3\/h1H3",
     "molecular_formula":"BH3",
     "D":[
       0.0,
@@ -2210,7 +2210,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CHNO\/c1-2-3\/h1H",
+    "InChI":"1S\/CHNO\/c1-2-3\/h1H",
     "molecular_formula":"HCNO",
     "D":[
       0.0,
@@ -2242,7 +2242,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BHO\/c1-2\/h1H",
+    "InChI":"1S\/BHO\/c1-2\/h1H",
     "molecular_formula":"HBO",
     "D":[
       0.0,
@@ -2274,7 +2274,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH3BO\/c1-2-3\/h1H3",
+    "InChI":"1S\/CH3BO\/c1-2-3\/h1H3",
     "molecular_formula":"CH3BO",
     "D":[
       0.0,
@@ -2306,7 +2306,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/ClH\/h1H",
+    "InChI":"1S\/ClH\/h1H",
     "molecular_formula":"HCl",
     "D":[
       0.0,
@@ -2338,7 +2338,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/C2H4\/c1-2\/h1-2H2",
+    "InChI":"1S\/C2H4\/c1-2\/h1-2H2",
     "molecular_formula":"C2H4",
     "D":[
       0.0,
@@ -2370,7 +2370,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH4\/h1H4",
+    "InChI":"1S\/CH4\/h1H4",
     "molecular_formula":"CH4",
     "D":[
       0.0,
@@ -2402,7 +2402,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/ClNO\/c1-2-3",
+    "InChI":"1S\/ClNO\/c1-2-3",
     "molecular_formula":"ClNO",
     "D":[
       0.0,
@@ -2434,7 +2434,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H4P2\/c1-2\/h1-2H2",
+    "InChI":"1S\/H4P2\/c1-2\/h1-2H2",
     "molecular_formula":"P2H4",
     "D":[
       0.386,
@@ -2466,7 +2466,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH3N\/c1-2\/h2H,1H2",
+    "InChI":"1S\/CH3N\/c1-2\/h2H,1H2",
     "molecular_formula":"CH2NH",
     "D":[
       0.0,
@@ -2498,7 +2498,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BHS\/c1-2\/h1H",
+    "InChI":"1S\/BHS\/c1-2\/h1H",
     "molecular_formula":"HBS",
     "D":[
       0.0,
@@ -2530,7 +2530,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH2O\/c1-2\/h1H2",
+    "InChI":"1S\/CH2O\/c1-2\/h1H2",
     "molecular_formula":"HCHO",
     "D":[
       0.0,
@@ -2562,7 +2562,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/Ar",
+    "InChI":"1S\/Ar",
     "molecular_formula":"Ar",
     "D":[
       0.0,
@@ -2594,7 +2594,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CHNO\/c2-1-3\/h3H",
+    "InChI":"1S\/CHNO\/c2-1-3\/h3H",
     "molecular_formula":"HOCN",
     "D":[
       0.0,
@@ -2626,7 +2626,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H2O\/h1H2",
+    "InChI":"1S\/H2O\/h1H2",
     "molecular_formula":"H2O",
     "D":[
       0.0,
@@ -2658,7 +2658,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/FH3Si\/c1-2\/h2H3",
+    "InChI":"1S\/FH3Si\/c1-2\/h2H3",
     "molecular_formula":"SiH3F",
     "D":[
       -0.0001,
@@ -2690,7 +2690,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H3P\/h1H3",
+    "InChI":"1S\/H3P\/h1H3",
     "molecular_formula":"PH3",
     "D":[
       -0.2335,
@@ -2722,7 +2722,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/BF\/c1-2",
+    "InChI":"1S\/BF\/c1-2",
     "molecular_formula":"BF",
     "D":[
       0.0,
@@ -2754,7 +2754,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/H",
+    "InChI":"1S\/H",
     "molecular_formula":"H",
     "D":[
       0.0,
@@ -2786,7 +2786,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/FNO\/c1-2-3",
+    "InChI":"1S\/FNO\/c1-2-3",
     "molecular_formula":"FNO",
     "D":[
       0.0,
@@ -2818,7 +2818,7 @@
   {
     "method":"ccsd(t)",
     "basis":"main_basis",
-    "inchikey":"1S\/CH3NO\/c2-1-3\/h1H,(H2,2,3)",
+    "InChI":"1S\/CH3NO\/c2-1-3\/h1H,(H2,2,3)",
     "molecular_formula":"HCONH2",
     "D":[
       0.0,

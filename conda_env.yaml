@@ -1,35 +1,11 @@
-name: conda_env_to_view_paper
+name: check_propbm_paper
 channels:
   - defaults
-    #   - anaconda
 dependencies:
-  # - python=3.11
-    # - typing_extensions # pydantic needs that but for some reason does not install by itsself with my installation
-    # - exceptiongroup
-    # - numpy
-    # - tqdm
-    # - ipykernel
+  - python=3.15
   - pandas
   - numpy
-    # - matplotlib
-    # - seaborn
-    # - scipy
   - pip
   - pip:
     - ipykernel # to run notebooks
     - pyyaml # to load yaml files
-    #   - setuptools-scm
-    #   - build
-    #   - pydantic
-    #   - ipympl
-    #   - adjustText
-    #   - tqdm # For progres bars
-    #     #   - fastapi[standard]
-    #     #   - sqlmodel
-    #     #   - requests
-    #     #   - psutil
-    #     #   - rdkit
-    #     #   - setuptools
-    #     #   - git+ssh://git@github.com/bruno-von-bruening/qcp_global_utils.git@ec4ebf4b3
-    #     #   - git+ssh://git@github.com/bruno-von-bruening/qcp_objects.git@b1309d414
-    #     #   - git+ssh://git@github.com/bruno-von-bruening/qcp_orm.git@1e2a8d58f
